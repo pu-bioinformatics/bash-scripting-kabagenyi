@@ -1,12 +1,12 @@
 # bash-refresher
 Quick refresher to gauge our current understanding of bash.
 
+# My Project
+This is a quick refresher on bash scripting and GitHub
+
 Programming class 26/02/2019.
 
 Pwani University
-
-# My Project
-This is a quick refresher on bash scripting and GitHub
 
 ## Contents
 The project has 3 `ordered` directories:
